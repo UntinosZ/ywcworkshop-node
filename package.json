@@ -1,0 +1,24 @@
+{
+  "name": "ywcworkshop-node",
+  "version": "1.0.0",
+  "description": "Ywc workshop with nodejs by kao",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UntinosZ/ywcworkshop-node.git"
+  },
+  "keywords": [
+    "ywc",
+    "workshop",
+    "nodejs"
+  ],
+  "author": "Nopparid Mokpradab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UntinosZ/ywcworkshop-node/issues"
+  },
+  "homepage": "https://github.com/UntinosZ/ywcworkshop-node#readme"
+}
